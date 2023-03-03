@@ -13,7 +13,7 @@
 ## Description
 A text editor with a database to feature persistent text data.
 
-![Screenshot of Text Editor](client\src\images\screenshot.png)
+![Screenshot of Text Editor](/client/src/images/screenshot.png)
 
 
 ## Usage
